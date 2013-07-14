@@ -50,4 +50,3 @@ closrks.github.com
 ==================
 
 development blog
->>>>>>> 58211e24549e1921bfa3b25e394521b95c81bee6
